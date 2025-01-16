@@ -1,2 +1,2 @@
-# Centro-M-dico
+# Centro-Médico
 Proyecto final SQL donde se crean las tablas necesarias para un centro médico, relaciones entre ellas, consultas...
